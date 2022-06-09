@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "mailfornavas@gmail.com",
+      "email": "juuuuu",
+      "password": "U2FsdGVkX1+1VAujBloHGNSfY4VU+4JR8nk7ZU5KVpguuSGuDjOSsoepypJ3Etf0v6fOTfr7ehI1O9CzI7We+d6z7ZZdgPDYf5eoONYmvbIqC//Mq8ZHngDUigsY3zW/rRTsAueZmd2fXVU6E6zCGw==",
+      "gender": "male"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
